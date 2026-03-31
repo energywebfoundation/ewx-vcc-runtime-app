@@ -26,9 +26,9 @@ Verified Compute Cloud (VCC) is a decentralized off‑chain business logic compu
 
 ##### What this app does
 <ul>
-  <li>Connects to external self‑custodial wallets for authentication (no username/password signup).</li>
+  <li>Allows users to configure VCC Runtime account linked to their VCC Operator account to represent them in submitting votes on-chain</li>
   <li>Runs verification logic workloads. A VCC Runtime is a processing unit in a network of nodes that can execute enterprise calculations and submit votes to derive consensus‑based, transparent results.</li>
-  <li>Downloads approved “solution” workflows and executes them locally, then submits verifiable outputs back to the network.</li>
+  <li>Downloads, installs, and deploys Verified Compute protocols based on the user's subscribed Verified Compute pools, executes them locally, then submits verifiable outputs back to the network.</li>
 </ul>
 
 Typical workload examples (depends on the verification solution group)
